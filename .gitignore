@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/TestClientCommunication/v16
+/TestClientCommunication/bin/Debug
+/TestClientCommunication/obj/Debug
